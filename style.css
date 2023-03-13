@@ -44,6 +44,7 @@ header > p {
     max-width: 450px;
     padding-right: 10px;
     padding-left: 10px;
+    padding-bottom: 8px;
     margin: auto;
     
     
@@ -65,7 +66,7 @@ nav > a:hover{
     background-color: #2fa866;
     color: #002915;
     border-radius: 11px;
-
+    transition-duration: .6s;
 }
 main{
     background-color: white;
