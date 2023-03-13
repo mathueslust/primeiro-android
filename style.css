@@ -150,6 +150,7 @@ footer{
     background-image: linear-gradient(180deg, #2fa866 ,#1d683a);
     color: white;
     font-weight: bold;
+    padding-left: 50px;
 }
 footer a{
     color: #83e1ad;
