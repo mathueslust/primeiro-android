@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+hmtl{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: aliceblue;
+}
+header>h1{
+    text-align: center;
+}
+menu{
+    margin: 30px;
+}
+menu > ul{
+    list-style-type: none;
+}
+article{
+    width: 500px;
+    text-align: center;
+    padding: 30px;
+    
+}
+article>p{
+    text-align: justify;
+    margin: auto;
+}

@@ -1,0 +1,14 @@
+*{
+    padding: 10px;
+    margin:10px;
+}
+hmtl{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+}
+menu{
+    display: none;
+}
+article::after{
+    content: 'esse video foi feio no dia 18/03/2023';
+}
